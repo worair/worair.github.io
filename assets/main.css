@@ -38,8 +38,8 @@ body{
 }
 
 a{color: #52739e; text-decoration:none;}
-a.current{color: #b8860b#52739e;}
-a.current:hover{color: #e82945;}
+a.current{color: #b6a724;}
+a.current:hover{color: #e7c428;}
 a:hover{color: #b2132e;}
 a:active{color: #e82945;}
 h1,h2,h3,h4{clear:left; color: #813c54; margin:1.5em 0em 1em 0em; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0;}
@@ -93,7 +93,7 @@ td.navigation{font-size:1.67em; white-space:nowrap; width:20%; text-align:center
 /* Sponsor Images */
 table.sponsors{width:800px;}
 td.sponsor{white-space:nowrap; width:33%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
-td.sponsor img{width: 170px}
+td.sponsor img{width: 120px}
 
 /* The Table on the Program Page */
 td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #52739e; height:32px;}
