@@ -38,8 +38,8 @@ body{
 }
 
 a{color: #52739e; text-decoration:none;}
-a.current{color: #d3b822;}
-a.current:hover{color: #e7c428;}
+/* a.current{color: #d3b822;}
+a.current:hover{color: #e7c428;} */
 /* a:hover{color: #b2132e;}
 a:active{color: #e82945;} */
 a:hover{color: #d3b822;}
