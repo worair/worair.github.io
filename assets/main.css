@@ -40,8 +40,10 @@ body{
 a{color: #52739e; text-decoration:none;}
 a.current{color: #d3b822;}
 a.current:hover{color: #e7c428;}
-a:hover{color: #b2132e;}
-a:active{color: #e82945;}
+/* a:hover{color: #b2132e;}
+a:active{color: #e82945;} */
+a:hover{color: #d3b822;}
+a:active{color: #e7c428;}
 h1,h2,h3,h4{clear:left; color: #813c54; margin:1.5em 0em 1em 0em; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0;}
 h1{font-size:2.67em;}
 h2{font-size:2.00em;}
