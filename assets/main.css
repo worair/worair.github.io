@@ -37,9 +37,9 @@ body{
     width: 1000px;
 }
 
-a{color: #52739e; text-decoration:none;}
-a.current{color: #702942;}
-a.current:hover{color: #bb2941;}
+a{color: #2e4f7a; text-decoration:none;}
+a.current{color: #96224b;}
+a.current:hover{color: #d83852;}
 /* a:hover{color: #b2132e;}
 a:active{color: #e82945;} */
 a:hover{color: #d4c815;}
